@@ -10,14 +10,14 @@
   --acent-green: #d8e84e;
 }
 
-@theme inline {
-  --color-light: var(--light)
-  --color-primary: var(--primary)
-  --color-dark: var(--dark)
-  --color-white: var(--white)
-  --color-accent-yellow: var(--accent-yellow)
-  --color-accent-blue: var(--accent-blue)
-  --color-acent-green: var(--acent-green)
+@theme {
+  --color-light: var(--light);
+  --color-primary: var(--primary);
+  --color-dark: var(--dark);
+  --color-white: var(--white);
+  --color-accent-yellow: var(--accent-yellow);
+  --color-accent-blue: var(--accent-blue);
+  --color-acent-green: var(--acent-green);
   --font-sans: var(--font-nunito-sans);
 }
 
