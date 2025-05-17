@@ -4,7 +4,7 @@
   --light: #f0ece0;
   --primary: #ee4d87;
   --dark: #353148;
-  --white: #f5f5f5;
+  --thin: #f5f5f5;
   --accent-yellow: #f5d06e;
   --accent-blue: #4d89ff;
   --acent-green: #d8e84e;
@@ -14,7 +14,7 @@
   --color-light: var(--light);
   --color-primary: var(--primary);
   --color-dark: var(--dark);
-  --color-white: var(--white);
+  --color-thin: var(--thin);
   --color-accent-yellow: var(--accent-yellow);
   --color-accent-blue: var(--accent-blue);
   --color-acent-green: var(--acent-green);
